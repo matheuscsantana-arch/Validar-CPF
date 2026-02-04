@@ -37,7 +37,7 @@ python Validacao_CPF.py
 
 Após executar o programa, o usuário visualiza se o CPF é válido:
 
-![CPF validado](assets/CPF-Gerado.PNG)
+![CPF validado](assets/Validacao-CPF.PNG)
 
 ## 🚀 Status do Projeto
 
