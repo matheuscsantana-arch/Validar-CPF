@@ -10,11 +10,11 @@ Este é um projeto desenvolvido em **Python** focado na validação de números 
 ## ⚙️ Instalação
 
 - Certifique-se de ter o Python instalado (versão 3.10 ou superior).
-- Baixe o arquivo Validacao_CPF.py.
+- Baixe o arquivo validacao_cpf.py.
 - Abra o terminal na pasta do arquivo e execute:
 
 ```bash
-python Validacao_CPF.py
+python validacao_cpf.py
 ```
 
 ## 🛠️ Funcionalidades
